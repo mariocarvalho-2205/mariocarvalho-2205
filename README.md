@@ -1,5 +1,5 @@
 <!-- Imagem alinhada à direita -->
-<img align="right" src="URL_DA_IMAGEM" width="150"/>
+<!--<img align="right" src="URL_DA_IMAGEM" width="150"/>-->
 
 # Desenvolvedor Fullstack - Mário Sérgio Carvalho Tenório
 
@@ -15,7 +15,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela UNIFACS, com experiê
 - **Backend**: Node.js, Express, MongoDB, GraphQL
 - **Ferramentas e Outros**: Git/GitHub, Firebase, Redux, Vite, Docker
 
-## ![icone](https://img.shields.io/badge/Languages-and-Tools-informational?style=flat&logo=javascript&color=blue)
+<!--## ![icone](https://img.shields.io/badge/Languages-and-Tools-informational?style=flat&logo=javascript&color=blue)-->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) - **80%**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) - **75%**
@@ -56,10 +56,10 @@ Breve descrição do projeto.
   </a>
 </div>
 
-###
+<!--###
 
 <img src="https://raw.githubusercontent.com/mariocarvalho-2205/mariocarvalho-2205/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
 ## 🚀 Objetivo Profissional
