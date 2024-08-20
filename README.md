@@ -28,7 +28,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela UNIFACS, com experiê
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
-## 📌 Projetos Destacados
+<!--## 📌 Projetos Destacados
 
 ### [Projeto 1: Nome do Projeto](https://github.com/seuusuario/nome-do-projeto)
 Breve descrição do projeto.  
@@ -40,7 +40,7 @@ Breve descrição do projeto.
 
 ### [Projeto 3: Nome do Projeto](https://github.com/seuusuario/nome-do-projeto)
 Breve descrição do projeto.  
-**Tecnologias**: HTML, CSS, Javascript, MongoDB
+**Tecnologias**: HTML, CSS, Javascript, MongoDB-->
 
 ## 📊 Estatísticas do GitHub
 
