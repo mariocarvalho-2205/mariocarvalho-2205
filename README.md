@@ -47,7 +47,7 @@ Como desenvolvedor fullstack, meu objetivo é trabalhar em uma equipe colaborati
 ---
 
 <div align="center">
-  <a href="https://github.com/seuusuario">
-    <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/mariocarvalho-2205">
+    <img src="https://github-readme-stats.vercel.app/api?username=mariocarvalho-2205&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
 </div>
