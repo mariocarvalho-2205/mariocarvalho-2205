@@ -1,5 +1,5 @@
 <!-- Imagem alinhada à direita -->
-<img align="right" src="URL_DA_IMAGEM" width="150"/>
+<!--<img align="right" src="URL_DA_IMAGEM" width="150"/>-->
 
 # Desenvolvedor Fullstack - Mário Sérgio Carvalho Tenório
 
@@ -16,7 +16,7 @@ Bem-vindo ao meu repositório GitHub! Sou Mário Sérgio, desenvolvedor fullstac
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
-## 📌 Projetos Destacados
+<!--## 📌 Projetos Destacados
 
 ### [Projeto 1: Nome do Projeto](https://github.com/seuusuario/nome-do-projeto)
 Breve descrição do projeto.  
@@ -28,7 +28,7 @@ Breve descrição do projeto.
 
 ### [Projeto 3: Nome do Projeto](https://github.com/seuusuario/nome-do-projeto)
 Breve descrição do projeto.  
-**Tecnologias**: HTML, CSS, Javascript, MongoDB
+**Tecnologias**: HTML, CSS, Javascript, MongoDB-->
 
 ## 📊 Estatísticas do GitHub
 
