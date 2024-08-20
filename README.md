@@ -40,9 +40,9 @@ Como desenvolvedor fullstack, meu objetivo é trabalhar em uma equipe colaborati
 
 ## 📞 Contato
 
-- **Telefone**: +55 71 9XXXX-XXXX
-- **Email**: [seuemail@example.com](mailto:seuemail@example.com)
-- **Instagram**: [@seuinstagram](https://instagram.com/seuinstagram)
+- **Telefone**: +55 71 98865-3124
+- **Email**: [mario.carvalho.ms@gmail.com](mailto:seuemail@example.com)
+- **Instagram**: [@marioeady](https://instagram.com/seuinstagram)
 
 ---
 
