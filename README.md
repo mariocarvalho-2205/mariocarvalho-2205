@@ -31,7 +31,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela UNIFACS, com experiê
 ## 📌 Projetos Destacados
 
 ### [Projeto 1: Mini-Blog / Fullstack](https://github.com/mariocarvalho-2205/Mini_Blog)
-Breve descrição do projeto.
+
 Este miniblog é uma aplicação web desenvolvida com React no frontend e Firebase como banco de dados. Ele permite que os usuários se cadastrem e façam login para criar, editar e gerenciar suas postagens. A autenticação integrada garante que apenas usuários registrados possam publicar conteúdo, proporcionando uma experiência personalizada e segura. O sistema de gerenciamento de posts permite a adição de imagens, textos e tags, tornando-o ideal para compartilhar ideias, notícias ou histórias de forma simples e intuitiva.
 **Tecnologias utilizadas**: React, Firebase
 
