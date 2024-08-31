@@ -28,13 +28,16 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela UNIFACS, com experiê
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
-<!--## 📌 Projetos Destacados
+## 📌 Projetos Destacados
 
-### [Projeto 1: Nome do Projeto](https://github.com/seuusuario/nome-do-projeto)
-Breve descrição do projeto.  
-**Tecnologias**: React, Node.js, Express, MongoDB
+### [Projeto 1: Mini-Blog / Fullstack](https://github.com/mariocarvalho-2205/Mini_Blog)
+Breve descrição do projeto.
+Este miniblog é uma aplicação web desenvolvida com React no frontend e Firebase como banco de dados. Ele permite que os usuários se cadastrem e façam login para criar, editar e gerenciar suas postagens. A autenticação integrada garante que apenas usuários registrados possam publicar conteúdo, proporcionando uma experiência personalizada e segura. O sistema de gerenciamento de posts permite a adição de imagens, textos e tags, tornando-o ideal para compartilhar ideias, notícias ou histórias de forma simples e intuitiva.
+**Tecnologias utilizadas**: React, Firebase
 
-### [Projeto 2: Nome do Projeto](https://github.com/seuusuario/nome-do-projeto)
+- **Confira o projeto funcionando** <a href="https://mariocarvalho-2205.github.io/Mini_Blog/" target='_blank'>Aqui</a>
+
+<!--### [Projeto 2: Nome do Projeto](https://github.com/seuusuario/nome-do-projeto)
 Breve descrição do projeto.  
 **Tecnologias**: React, Firebase, Redux
 
