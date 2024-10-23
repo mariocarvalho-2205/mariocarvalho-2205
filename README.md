@@ -9,6 +9,10 @@ Bem-vindo ao meu repositório GitHub! Sou Mário Sérgio, desenvolvedor fullstac
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela UNIFACS, com experiência prática em desenvolvimento fullstack. Minha jornada inclui a criação de aplicações web dinâmicas, onde integro frontend e backend para entregar produtos funcionais e de alta qualidade. Tenho uma forte dedicação ao aprendizado contínuo e à busca por soluções que agreguem valor ao usuário final.
 
+## 🚀 Objetivo Profissional
+
+Como desenvolvedor fullstack, meu objetivo é trabalhar em uma equipe colaborativa onde eu possa aplicar minhas habilidades técnicas e desenvolver soluções inovadoras que atendam às necessidades dos usuários finais. Estou focado em crescer profissionalmente, enfrentando novos desafios e contribuindo para o sucesso dos projetos e da empresa.
+
 ### Tecnologias Principais
 
 - **Frontend**: HTML, CSS, Javascript, React
@@ -65,9 +69,7 @@ Breve descrição do projeto.
 -->
 ###
 
-## 🚀 Objetivo Profissional
 
-Como desenvolvedor fullstack, meu objetivo é trabalhar em uma equipe colaborativa onde eu possa aplicar minhas habilidades técnicas e desenvolver soluções inovadoras que atendam às necessidades dos usuários finais. Estou focado em crescer profissionalmente, enfrentando novos desafios e contribuindo para o sucesso dos projetos e da empresa.
 
 ## 📞 Contato
 
