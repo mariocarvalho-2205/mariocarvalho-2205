@@ -51,7 +51,7 @@ Breve descrição do projeto.
 
 ## 📊 Estatísticas do GitHub
 
-![Total de Repositórios](https://img.shields.io/badge/Total_de_repositórios-78-blue?style=flat&logo=github)
+![Total de Repositórios](https://img.shields.io/badge/Total_de_repositórios-82-blue?style=flat&logo=github)
 
 ###
 
