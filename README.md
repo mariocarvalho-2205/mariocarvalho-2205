@@ -73,6 +73,6 @@ Breve descrição do projeto.
 
 ## 📞 Contato
 
-- **Telefone**: +55 71 98865-3124
+- **Telefone**: +55 71 99187-0586
 - **Email**: [mario.carvalho.ms@gmail.com](mailto:seuemail@example.com)
 - **Instagram**: [@marioeady](https://instagram.com/seuinstagram)
